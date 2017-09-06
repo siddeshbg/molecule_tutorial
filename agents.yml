@@ -1,4 +1,0 @@
----
-- hosts: agents
-  roles:
-      - base
